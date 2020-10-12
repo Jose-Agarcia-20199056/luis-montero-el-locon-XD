@@ -1,6 +1,6 @@
 using System;
 					
-public class Program
+public class Program  
 {
 	public static void Main()
 	{     // dias de la semana
